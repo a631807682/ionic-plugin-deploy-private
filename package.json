@@ -1,0 +1,29 @@
+{
+  "name": "ionic-plugin-deploy-private",
+  "version": "0.3.0",
+  "description": "Ionic Deploy Plugin",
+  "cordova": {
+    "id": "ionic-plugin-deploy-private",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a631807682/ionic-plugin-deploy-private.git"
+  },
+  "keywords": [
+    "Ionic",
+    "deploy",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Ionic",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/a631807682/ionic-plugin-deploy-private/issues"
+  },
+  "homepage": "https://github.com/a631807682/ionic-plugin-deploy-private#readme"
+}
