@@ -33,5 +33,9 @@ Ionic更新插件
   }
 
 
+改自:
+https://github.com/lngjy/ionic-plugin-deploy-private
+
+
 
 
