@@ -4,7 +4,7 @@
 
 注意事项：
 
-1. www.zip 压缩的是platform目录下的www文件内容
+1.www.zip 压缩的是platform目录下的www文件内容
 
 2.二进制版本更新中ios/android的www文件是不同的
 
