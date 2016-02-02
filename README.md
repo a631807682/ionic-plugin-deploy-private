@@ -10,8 +10,6 @@ Ionic更新插件
 
 2.二进制版本更新中ios/android的www文件是不同的
 
-3.配合 https://github.com/a631807682/ionic-service-deploy-private.git 使用
-
 后端数据格式：
 
 1.更新检测地址: {{host}}/update/check/:app_id
@@ -33,8 +31,7 @@ Ionic更新插件
   }
 
 
-改自:
-https://github.com/lngjy/ionic-plugin-deploy-private
+4.改自:https://github.com/lngjy/ionic-plugin-deploy-private
 
 
 
