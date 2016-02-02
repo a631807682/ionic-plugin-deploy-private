@@ -1,3 +1,5 @@
+Ionic更新插件
+
 兼容／非兼容二进制版本更新
 
 使用方式: cordova plugin add https://github.com/a631807682/ionic-plugin-deploy-private.git
